@@ -1,7 +1,6 @@
 # Machine_Learning_Projects
 
 This repository contains my machine learning projects, ranging from beginner-level implementations to more advanced real-world applications. The projects cover data preprocessing, feature engineering, model building, evaluation, and practical problem-solving using Python libraries such as Pandas, NumPy, Scikit-learn, and NLTK.
----
 
 # Big Mart Sales Prediction Model:
 
@@ -12,7 +11,6 @@ This repository contains the code and analysis for a data science project focuse
 Plain XGBoost	train -> 0.864	 test -> 0.534<br>
 GridSearchCV Tuned	 train -> 0.628 test ->	0.605<br>
 RandomizedSearchCV Tuned	train -> 0.633 test ->0.595
----
 
 # datasets
 
